@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [ https://github.com/marutint10]( https://github.com/20prapti)
+- 👨‍💻 All of my projects are available at [ https://github.com/20prapti]( https://github.com/20prapti)
 
 - 📫 How to reach me **prapti20gupta@gmail.com**
 
