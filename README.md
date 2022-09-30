@@ -23,7 +23,7 @@
 - 🌱 I’m currently learning **Java**
 - 👨‍💻 All my projects are available at [ https://github.com/20prapti]( https://github.com/20prapti)
 
-- 💬 Ask me about **Java, DSA, Spring boot, Spring mvc, Servelelts !**
+- 💬 Ask me about **Java, DSA, Spring boot, Spring mvc, Servelets !**
 - **Feel free to write to me if you need help, I'll try to help!**
 <br>
 
